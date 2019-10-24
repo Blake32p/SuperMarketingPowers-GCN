@@ -11,10 +11,10 @@
     "@fortawesome/pro-regular-svg-icons": "^5.11.2",
     "@fortawesome/pro-solid-svg-icons": "^5.11.2",
     "babel-plugin-styled-components": "^1.10.6",
-    "bulma": "^0.8.0",
     "chalk": "^2.4.2",
     "contentful-import": "^7.6.1",
     "gatsby": "^2.17.2",
+    "gatsby-cli": "^2.8.5",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-canonical-urls": "^2.1.13",
     "gatsby-plugin-catch-links": "^2.1.15",
@@ -62,6 +62,7 @@
     "clean": "gatsby clean"
   },
   "devDependencies": {
+    "bulma": "^0.8.0",
     "eslint": "^5.16.0",
     "eslint-config-gatsby-standard": "^2.2.0",
     "prettier": "^1.18.2",
