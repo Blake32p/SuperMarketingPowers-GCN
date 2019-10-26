@@ -66,6 +66,7 @@ module.exports = {
           ? contentfulConfig.development
           : contentfulConfig.production,
     },
+    `gatsby-plugin-sass`,
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
