@@ -29,7 +29,7 @@ const Contact = ({ data }) => {
                     Edible Glitter Shapes are available in several sizes.
                     Standard shapes and sizes are shown below. Colors for each
                     shape can be customized to meet the needs of your product
-                    and objectives.
+                    and objectives.asa
                   </p>
                   <p>
                     Below please find samples of standard shapes. Shapes can
