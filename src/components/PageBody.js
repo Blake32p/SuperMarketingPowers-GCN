@@ -9,22 +9,23 @@ const Body = styled.div`
   h1,
   h2,
   h3 {
-    font-weight: 600;
+    font-weight: 700;
     line-height: 1.25;
     margin: 0 0 1rem 0;
     text-transform: capitalize;
-    font-family: 'Tungsten Rounded A', 'Tungsten Rounded B';
-    font-weight: 700;
   }
 
   h1 {
-    font-size: 1.5em;
+    // font-size: 1.5em;
+    font-size: 2em;
   }
   h2 {
-    font-size: 1.25em;
+    // font-size: 1.25em;
+    font-size: 1.6em;
   }
   h3 {
-    font-size: 1em;
+    font-size: 1.3em;
+    font-weight: 600;
   }
 
   p {
