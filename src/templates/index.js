@@ -8,7 +8,6 @@ import Container from '../components/Container'
 import Pagination from '../components/Pagination'
 import SEO from '../components/SEO'
 import config from '../utils/siteConfig'
-import '../components/style.scss'
 
 const Index = ({ data, pageContext }) => {
   const posts = data.allContentfulPost.edges

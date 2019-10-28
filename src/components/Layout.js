@@ -7,6 +7,7 @@ import theme from '../styles/theme'
 import config from '../utils/siteConfig'
 import Menu from '../components/Menu'
 import Footer from '../components/Footer'
+import './scss/style.scss'
 
 const Template = ({ children }) => {
   return (
