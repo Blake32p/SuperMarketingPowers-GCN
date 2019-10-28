@@ -13,6 +13,8 @@ const Body = styled.div`
     line-height: 1.25;
     margin: 0 0 1rem 0;
     text-transform: capitalize;
+    font-family: 'Tungsten Rounded A', 'Tungsten Rounded B';
+    font-weight: 700;
   }
 
   h1 {

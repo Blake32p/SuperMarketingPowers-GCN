@@ -3,8 +3,9 @@ import styled from 'styled-components'
 
 const Title = styled.h1`
   font-size: ${props => (props.small ? '2em' : '3em')};
+  font-family: 'Tungsten Rounded A', 'Tungsten Rounded B';
   text-transform: capitalize;
-  font-weight: 600;
+  font-weight: 700;
   text-align: center;
   margin: 0 0 3rem 0;
   margin: ${props => (props.small ? '1rem 0 4rem 0' : '0 0 3rem 0')};
