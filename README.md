@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/15b18ab3-bd61-4450-80ee-9fea2b86e865/deploy-status)](https://app.netlify.com/sites/supermarketingpowers/deploys)
+
 # gatsby-starter-gcn
 
 A starter template to build amazing static websites with Gatsby, Contentful and Netlify. Inspired by [gatsby-contentful-starter](https://github.com/contentful-userland/gatsby-contentful-starter).
