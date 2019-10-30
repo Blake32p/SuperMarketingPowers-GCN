@@ -14,7 +14,7 @@ module.exports = {
   shareImageWidth: 900, // Change to the width of your default share image
   shareImageHeight: 600, // Change to the height of your default share image
   siteLogo: '/logos/msp-favicon-rounded-512.png', // Logo used for SEO, RSS, and App manifest
-  backgroundColor: '#e9e9e9', // Used for Offline Manifest
-  themeColor: '#121212', // Used for Offline Manifest
+  backgroundColor: '#0D1745', // Used for Offline Manifest
+  themeColor: '#C13426', // Used for Offline Manifest
   copyright: 'Copyright © 2019 Blake Powers', // Copyright string for the RSS feed
 }
