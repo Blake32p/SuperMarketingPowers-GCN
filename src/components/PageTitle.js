@@ -3,7 +3,9 @@ import styled from 'styled-components'
 
 const Title = styled.h1`
   font-size: ${props => (props.small ? '2em' : '3em')};
-  font-family: 'Tungsten Rounded A', 'Tungsten Rounded B';
+  font-family: 'Tungsten Rounded A', 'Tungsten Rounded B', -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   text-transform: capitalize;
   font-weight: 700;
   text-align: center;

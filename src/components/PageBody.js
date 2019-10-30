@@ -16,11 +16,9 @@ const Body = styled.div`
   }
 
   h1 {
-    // font-size: 1.5em;
     font-size: 2em;
   }
   h2 {
-    // font-size: 1.25em;
     font-size: 1.6em;
   }
   h3 {
