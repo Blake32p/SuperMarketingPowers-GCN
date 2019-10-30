@@ -3,7 +3,7 @@ module.exports = {
   siteTitleAlt: 'MSP', // This allows an alternative site title for SEO schema.
   publisher: 'Blake Powers', // Organization name used for SEO schema
   siteDescription: 'A Quick Website to explain my role at Glanbia/Watson',
-  siteUrl: 'marketingsuperpowers.com', // Site domain. Do not include a trailing slash! If you wish to use a path prefix you can read more about that here: https://www.gatsbyjs.org/docs/path-prefix/
+  siteUrl: 'https://marketingsuperpowers.com', // Site domain. Do not include a trailing slash! If you wish to use a path prefix you can read more about that here: https://www.gatsbyjs.org/docs/path-prefix/
   postsPerHomePage: 7, // Number of posts shown on the 1st page of of the index.js template (home page)
   postsPerPage: 6, // Number of posts shown on paginated pages
   author: 'Blake Powers', // Author for RSS author segment and SEO schema
